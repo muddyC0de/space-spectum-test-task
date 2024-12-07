@@ -27,6 +27,8 @@ function App() {
     );
 
     dispatch(addIdCounter());
+
+    setValue("");
   };
 
   React.useEffect(() => {
