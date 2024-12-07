@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/space-spectum-test-tasks/static/css/main.3a9394d5.css",
+    "main.js": "/space-spectum-test-tasks/static/js/main.af9f9a7a.js",
+    "index.html": "/space-spectum-test-tasks/index.html",
+    "main.3a9394d5.css.map": "/space-spectum-test-tasks/static/css/main.3a9394d5.css.map",
+    "main.af9f9a7a.js.map": "/space-spectum-test-tasks/static/js/main.af9f9a7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9394d5.css",
+    "static/js/main.af9f9a7a.js"
+  ]
+}
