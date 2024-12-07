@@ -1,7 +1,7 @@
 {
   "name": "space-spectum-test-task",
   "version": "0.1.0",
-  "homepage": "https://muddyC0de.github.io/space-spectum-test-tasks",
+  "homepage": "https://muddyC0de.github.io/space-spectum-test-task",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.4.0",
