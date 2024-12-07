@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/space-spectum-test-task/static/css/main.3a9394d5.css",
-    "main.js": "/space-spectum-test-task/static/js/main.af9f9a7a.js",
+    "main.css": "/space-spectum-test-task/static/css/main.cdb2c61c.css",
+    "main.js": "/space-spectum-test-task/static/js/main.4342df91.js",
     "index.html": "/space-spectum-test-task/index.html",
-    "main.3a9394d5.css.map": "/space-spectum-test-task/static/css/main.3a9394d5.css.map",
-    "main.af9f9a7a.js.map": "/space-spectum-test-task/static/js/main.af9f9a7a.js.map"
+    "main.cdb2c61c.css.map": "/space-spectum-test-task/static/css/main.cdb2c61c.css.map",
+    "main.4342df91.js.map": "/space-spectum-test-task/static/js/main.4342df91.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a9394d5.css",
-    "static/js/main.af9f9a7a.js"
+    "static/css/main.cdb2c61c.css",
+    "static/js/main.4342df91.js"
   ]
 }
